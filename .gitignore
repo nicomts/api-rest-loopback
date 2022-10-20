@@ -1,3 +1,15 @@
+# Datasource file with the PASSWORD of the database
+src/datasources/datasource-mongodb.datasource.ts
+
+# READ LINES ABOVE!!
+
+
+
+
+
+
+
+
 # Logs
 logs
 *.log
